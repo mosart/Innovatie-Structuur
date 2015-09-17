@@ -27,8 +27,8 @@ Met wie ik gesproken heb staat uitgewerkt in sectie "Opzetten en onderhouden van
     * Mijn suggestie is dat we slimmer gebruik moeten maken van de capaciteit van de universiteit. Dat kan zijn dat de bieb een incubator kan zijn voor spinn-off startups, waar MVP's worden uitgewerkt tot volwassen sustainable diensten.
 * Innovatievolwassenheidsmodel: Waar zit de bieb.
     * Suggestie voor jaarplan 2016; onderzoeken waar we staan in het innovatievolwassenheismodel, en voorstellen hoe dat kan worden verbeterd.
-    * ![http://www.openinnovation.eu/eu/uploads/innovationmaturitymodel_03.png](http://www.openinnovation.eu/23-02-2012/a-new-model-for-innovation-fast-track-innovation/)
-    * ![http://desai.com/Portals/1158/images/Innovation%20Funnel%20Playback.jpg]
+    * [![Innovation Maturity Model](http://www.openinnovation.eu/eu/uploads/innovationmaturitymodel_03.png)](http://www.openinnovation.eu/23-02-2012/a-new-model-for-innovation-fast-track-innovation/)
+    * ![Innovation Funnel](http://desai.com/Portals/1158/images/Innovation%20Funnel%20Playback.jpg "Innovation Funnel")
 
 ## Innovaties Stimuleren
 
