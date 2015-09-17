@@ -12,7 +12,9 @@ nm | dt | fn | un | fc | vg | dl
 nm | dt | fn | un | fc | vg | dl
 
 ### Nog te spreken (wensenlijst)
+
 Hieronder staan mensen of bijeenkomsten
+
 naam | datum | functie | uni | faculteit | vakgroep | details
 ---- | ----- | ------- | --- | --------- | -------- | -------
 nm | dt | fn | un | fc | vg | dl
@@ -20,6 +22,7 @@ nm | dt | fn | un | fc | vg | dl
 
 ## Buiten de VU; Internationaal
 ### Gesproken
+
 naam | datum | functie | uni | faculteit | vakgroep | details
 ---- | ----- | ------- | --- | --------- | -------- | -------
 nm | dt | fn | un | fc | vg | dl
@@ -30,7 +33,9 @@ nm | dt | fn | un | fc | vg | dl
 nm | dt | fn | un | fc | vg | dl
 
 ### Nog te spreken (wensenlijst)
+
 Hieronder staan mensen of bijeenkomsten
+
 naam | datum | functie | uni | faculteit | vakgroep | details
 ---- | ----- | ------- | --- | --------- | -------- | -------
 nm | dt | fn | un | fc | vg | dl
