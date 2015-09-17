@@ -26,7 +26,7 @@ Met wie ik gesproken heb staat uitgewerkt in sectie "Opzetten en onderhouden van
 * Volgens Peter Vossen is de backofice niet schaalbaar om alle nieuwe inkomende innovaties te kunnen ontwikkelen en vervolgens in beheer te krijgen.
     * Mijn suggestie is dat we slimmer gebruik moeten maken van de capaciteit van de universiteit. Dat kan zijn dat de bieb een incubator kan zijn voor spinn-off startups, waar MVP's worden uitgewerkt tot volwassen sustainable diensten.
 * Innovatievolwassenheidsmodel: Waar zit de bieb.
-    * Suggestie voor jaarplan 2016; onderzoeken waar we staan in het innovatievolwassenheismodel, en voorstellen hoe dat kan worden verbeterd.
+    * Suggestie voor jaarplan 2016; onderzoeken waar we staan in het innovatievolwassenheidsmodel, en voorstellen hoe dat kan worden verbeterd.
     * [![Innovation Maturity Model](http://www.openinnovation.eu/eu/uploads/innovationmaturitymodel_03.png)](http://www.openinnovation.eu/23-02-2012/a-new-model-for-innovation-fast-track-innovation/)
     * ![Innovation Funnel](http://desai.com/Portals/1158/images/Innovation%20Funnel%20Playback.jpg "Innovation Funnel")
 
