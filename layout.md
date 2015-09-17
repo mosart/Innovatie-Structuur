@@ -3,6 +3,6 @@ Aanleiding.md
 Innovaties stimuleren en realiseren.md
 Netwerk.md
 Gevoel voor verhoudingen.md
-Inzicht_ontwikkelen_in_de_toekomst__.md
+Inzicht op toekomstige ontwikklingen.md
 Optimaal_gebruik_van_de_backoffice__.md
 Observaties_en_vragen_Volgens_Michiel__.md
