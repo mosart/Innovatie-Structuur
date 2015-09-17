@@ -1,4 +1,3 @@
-# Aanleiding
 Aanleiding van deze memo is dat er structuur nodig is in de innovatiewerkzaamheden, zodat de Innovatiemanager kan rapporten aan zijn leidinggevende waar hij zich mee bezig heeft gehouden.
 
 Uit de vacaturetekst van de functie "Innovatiemanager Onderzoek" kunnen verschillende taakstellingen voor de functie worden onderscheiden. Hieronder volgt de opsomming die verderop zal worden uitgewerkt. 
