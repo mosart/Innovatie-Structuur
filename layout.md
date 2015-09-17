@@ -1,7 +1,7 @@
 cite_Stagars_2014__.tex
 Aanleiding.md
 Innovaties stimuleren en realiseren.md
-Opzetten_en_onderhouden_van_een__.md
+Netwerk.md
 Gevoel_ontwikkelen_voor_verhoudingen_binnen__.md
 Inzicht_ontwikkelen_in_de_toekomst__.md
 Optimaal_gebruik_van_de_backoffice__.md
