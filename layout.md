@@ -1,3 +1,2 @@
 cite_Stagars_2014__.tex
 Aanleiding.md
-een_markdown_tabel_table_with__.md
