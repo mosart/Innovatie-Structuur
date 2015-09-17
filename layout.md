@@ -1,6 +1,6 @@
 cite_Stagars_2014__.tex
 Aanleiding.md
-Innovaties_stimuleren_en_realiseren__.md
+Innovaties_stimuleren en realiseren.md
 Opzetten_en_onderhouden_van_een__.md
 Gevoel_ontwikkelen_voor_verhoudingen_binnen__.md
 Inzicht_ontwikkelen_in_de_toekomst__.md
