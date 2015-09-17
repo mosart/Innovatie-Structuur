@@ -1,3 +1,2 @@
-untitled.tex
 cite_Stagars_2014__.tex
 een_markdown_tabel_table_with__.md
